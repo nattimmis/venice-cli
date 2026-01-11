@@ -19,7 +19,7 @@ pkg install python
 pip install requests
 
 # Download and install
-curl -o ~/bin/hyperlog https://raw.githubusercontent.com/hyperlogic/hyperlog/main/hyperlog.py
+curl -o ~/bin/hyperlog https://raw.githubusercontent.com/nattimmis/venice-cli/main/hyperlog.py
 chmod +x ~/bin/hyperlog
 ```
 
